@@ -12,3 +12,6 @@ Great in combinaison with the [LittleWeather](https://github.com/DigitalzombieTL
 
 
 _Recommendation: put the sun very low in order to not be blinded by the snow reflection._
+
+
+![Preview image](Preview.png)
