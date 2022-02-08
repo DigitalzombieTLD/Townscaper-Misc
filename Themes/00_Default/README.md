@@ -1,0 +1,1 @@
+# Original Townscaper textures files. 
