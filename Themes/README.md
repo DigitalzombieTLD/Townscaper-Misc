@@ -9,7 +9,8 @@ It is recommended to also create a different folder to store files when you're n
 
 ### Texture¹ folder location
 
-* `..\AppData\LocalLow\Oskar Stalberg\Townscaper\Textures`
+* Windows: `..\AppData\LocalLow\Oskar Stalberg\Townscaper\Textures`
+* Mac: `~/Library/Application Support/com.OskarStalberg.Townscaper`
 
 ### Remove
 To remove a theme, replace the files in your Texture¹ folder by the ones in your backup folder or in the Default folder. 
