@@ -1,0 +1,73 @@
+# [Mods]&[Textures] - Instructions & Downloadlinks
+
+***
+
+## [Textures]
+Name | Description | Creator | Preview | Download
+:--|:--|:--|:--|:--
+**Default** | The default theme if you lose it! | [Oskar Stålberg](https://twitter.com/osksta) | - | [GitHub](https://github.com/DigitalzombieTLD/Townscaper-Misc/tree/main/Themes/00_Default)
+**Winter** | A theme to cover your towns in snow, with an alternate color scheme to play with | [Sem](https://sem-from-france.carrd.co/) | [Pic](https://github.com/DigitalzombieTLD/Townscaper-Misc/raw/main/Themes/01_Winter/Preview.png) | [GitHub](https://github.com/DigitalzombieTLD/Townscaper-Misc/tree/main/Themes/01_Winter)
+**Mediterranean Blue** | Inspired by blue and white greek cities, this theme gives a summer vibe to your town | [Sem](https://sem-from-france.carrd.co/) | [Pic](https://github.com/DigitalzombieTLD/Townscaper-Misc/raw/main/Themes/02_Mediterranean_blue/Preview_3.png) | [GitHub](https://github.com/DigitalzombieTLD/Townscaper-Misc/tree/main/Themes/02_Mediterranean_blue)
+
+***
+
+## [Mods]
+Name | Category | Description | Creator | Preview | Download
+:--|:--|:--|:--|:--|:--
+**LittleWeather** | Effects | Adds weathereffects | [Digitalzombie](https://www.youtube.com/c/DigitalzombieDev/) | [YouTube](https://www.youtube.com/watch?v=NE-d_r_fYkU) | [GitHub](https://github.com/DigitalzombieTLD/TownscaperLittleWeather/releases/latest)
+**LittleFirstPerson** | Gameplay | Enables first-person mode | [Digitalzombie](https://www.youtube.com/c/DigitalzombieDev/) | [YouTube](https://www.youtube.com/watch?v=9B6G9-EgkRM) | [GitHub](https://github.com/DigitalzombieTLD/Townscaper-LittleFirstPerson/releases/latest)
+**ModUI** | Utility | Utility mod for modders (adds UI & settings) | [Digitalzombie](https://www.youtube.com/c/DigitalzombieDev/)  | [Pic](https://raw.githubusercontent.com/DigitalzombieTLD/TownscaperModUI/master/ModUI.JPG) | [GitHub](https://github.com/DigitalzombieTLD/TownscaperModUI/releases/latest)
+**TemplateMod** | Utility | Blank mod template for new modders | [Digitalzombie](https://www.youtube.com/c/DigitalzombieDev/)  | - | [GitHub](https://github.com/DigitalzombieTLD/TownscaperTemplate)
+
+***
+
+## [Miscellaneous]
+Name | Description | Creator | Preview | Download
+:--|:--|:--|:--|:--
+**TownColor Layered** | Layered and commented TownColor.png GIMP file to make your own texture edits | [Sem](https://sem-from-france.carrd.co/) | [Pic](https://github.com/DigitalzombieTLD/Townscaper-Misc/blob/main/TownColor_Layered_Preview.png) | [GitHub](https://github.com/DigitalzombieTLD/Townscaper-Misc/blob/main/TownColor_Layered.zip) 
+
+***
+
+## [Links]
+Name | Description | Link
+:--|:--|:--
+Townscaper on Steam | Official Steam Store link to Townscaper | [Steam](https://store.steampowered.com/app/1291340/Townscaper/)
+Oskar Stålberg | Official Twitter | [Twitter](https://twitter.com/osksta) 
+Discord | Unofficial community Discord | [Discord](https://discord.gg/F46YJu8ZUJ)
+
+***
+
+## [How to install mods?]
+- Download "Melon Loader" by LavaGang: https://github.com/LavaGang/MelonLoader/releases/latest/
+
+- Start the MelonLoader.Installer.exe
+
+- Click "Select" and navigate to your Townscaper folder and select the Townscaper.exe (usually: **C:\Program Files(x86)\Steam\steamapps\common\Townscaper\Townscaper.exe**)
+
+- Untick the "Latest" checkbox and choose **version 0.4.3**
+
+- Click install 
+
+- During the installation a "Mods" folder gets created it your game folder. MelonLoader does not(!) change any game files. You can uninstall anytime through the installer or by deleting the "version.dll" file.
+
+- Download the mod
+
+- Extract the all files from the mod zip into your games Mods folder. (**delete the zip file after extraction**)
+
+- Start the game! 
+
+***
+
+## [How to install textures?]
+
+- Download texture
+
+- Extract [TownColor.png] and [TownMaterial.png] to one of the following folders (overwrite existing files):
+
+
+
+**[Windows]** 
+> C:\Users\ _YourWindowsUserName_ \AppData\LocalLow\Oskar Stalberg\Townscaper\Textures
+
+**[Mac]**
+> ~/Library/Application Support/com.OskarStalberg.Townscaper
