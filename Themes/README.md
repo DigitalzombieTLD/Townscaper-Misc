@@ -26,3 +26,4 @@ Sadly, you can't at the moment.
 | `00` | Default                | The default theme if you lose it!                                                      | Townscaper team ([Oskar Stålberg](https://twitter.com/osksta)) | 
 | `01` | ❄ Winter               | A theme to cover your towns in snow, with an alternate color scheme to play with.     | [Sem](https://sem-from-france.carrd.co/) | 
 | `02` | 🔵 Mediterranean blue  | Inspired by blue and white greek cities, this theme gives a summer vibe to your town. | [Sem](https://sem-from-france.carrd.co/) | 
+| `03` | 🏚 Rusty metal and old concrete  | This theme gives a spooky vibe to your town by using HD textures. | [aladar4](https://www.reddit.com/user/aladar4/) | 
