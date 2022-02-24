@@ -27,6 +27,6 @@ Sadly, you can't at the moment.
 | `01` | ❄ Winter               | A theme to cover your towns in snow, with an alternate color scheme to play with.     | [Sem](https://sem-from-france.carrd.co/) | 
 | `02` | 🔵 Mediterranean blue  | Inspired by blue and white greek cities, this theme gives a summer vibe to your town. | [Sem](https://sem-from-france.carrd.co/) | 
 | `03` | 🏚 Rusty metal and old concrete  | This theme gives a spooky vibe to your town by using HD textures. | [aladar4](https://www.reddit.com/user/aladar4/) | 
-| `04` | 🛠 Industrial  | An industrial vibe for your city. | [Pixel Overload](https://pixeloverload.itch.io/) | 
-| `05` | ❄ Snow  | A simple theme with snow. | [Pixel Overload](https://pixeloverload.itch.io/) | 
-| `06` | 💚 Salty  | Salt is now everywhere, eating your town bits by bits. | [Pixel Overload](https://pixeloverload.itch.io/) | 
+| `04` | 🛠 Industrial  | An industrial vibe for your city. | [Pixel Overload](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ) | 
+| `05` | ❄ Snow  | A simple theme with snow. | [Pixel Overload](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ) | 
+| `06` | 💚 Salty  | Salt is now everywhere, eating your town bits by bits. | [Pixel Overload](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ) | 
