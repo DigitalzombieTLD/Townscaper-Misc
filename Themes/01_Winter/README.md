@@ -15,3 +15,14 @@ _Recommendation: put the sun very low in order to not be blinded by the snow ref
 
 
 ![Preview image](Preview.png)
+
+
+# [MoreBirds](https://github.com/mokojm/Townscaper-CustomBirds) mod special texture
+By using the `TownColor_MoreBirds.png` special texture in this folder, you'll unlock more bird appearances. The order is the following:
+1. Crow
+2. Default bird
+3. Seagull with black wing ends 🆕
+4. Pigeon (greyscale) 🆕
+5. Pigeon (colorful chest) 🆕
+
+_Don't forget to rename it to TownColor.png to apply._
