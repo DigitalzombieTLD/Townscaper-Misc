@@ -14,7 +14,8 @@ Great in combinaison with the [LittleWeather](https://github.com/DigitalzombieTL
 _Recommendation: put the sun very low in order to not be blinded by the snow reflection._
 
 
-![Preview image](Preview.png)
+| ![Preview image](Preview_1.png) | ![Preview image 2](Preview_2.png) | 
+|---|---|
 
 
 # [MoreBirds](https://github.com/mokojm/Townscaper-CustomBirds) mod special texture
