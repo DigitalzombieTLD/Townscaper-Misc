@@ -27,3 +27,7 @@ By using the `TownColor_MoreBirds.png` special texture in this folder, you'll un
 5. Pigeon (colorful chest) 🆕
 
 _Don't forget to rename it to TownColor.png to apply._
+
+# [PlantsColor](https://github.com/mokojm/Townscaper-PlantColor) mod recommended settings
+
+![Recommended settings](RecSet_PlantsColor.png)
